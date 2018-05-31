@@ -26,3 +26,5 @@ No IRQs within IRQs.  The h/w itself queues IRQs.  This is basic and fast but th
 
 Built with GNU/ARM tools :-) on platform Win32 :-(
 Also builds with GNU tools on (Raspberry) Pi-Top laptop running Linux :-) 
+
+ps If the project does not build correctly, get the tested zipfile from www.baremetal.tech
